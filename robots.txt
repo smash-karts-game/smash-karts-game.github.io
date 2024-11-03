@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://smash-karts-online.github.io/sitemap.xml
